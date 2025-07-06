@@ -44,9 +44,11 @@ Maven
 
 ## 📸 Résultats attendus
 Affichage du nombre d’incidents par service (ex : IT, Maintenance…)
+
 ![Terminal output](screenshots/sp1.png)
 
 Affichage des 2 années avec le plus grand nombre d’incidents (ex : 2023, 2022)
+
 ![Terminal output](screenshots/sp2.png)
 
 ## ✍️ Auteur
